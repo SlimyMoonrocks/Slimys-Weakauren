@@ -1,4 +1,4 @@
-# Slimys-Weakaurenm
+# Slimys-Weakauren
  My selfmade weakauras
 
  Feel free to use them :) 
