@@ -1,4 +1,4 @@
-# Slimys-Weakaurenm
+# Slimys-Weakauren
  My selfmade weakauras
 
  Feel free to use them :) 
@@ -18,6 +18,8 @@ How to change Weakaura sizes:
 
 To-Do:
 
-Def-CD announcer.
+Def-CD announcer. - 
 
 Rework of Interrupt Displays - done
+
+Automark in Interrupt-group -
